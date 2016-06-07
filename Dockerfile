@@ -1,3 +1,3 @@
-FROM sentry:8.2.4
+FROM sentry:8.5.0
 
 RUN pip install sentry-slack
